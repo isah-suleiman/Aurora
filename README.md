@@ -1,6 +1,6 @@
 # Aurora Bank Insights: My Journey to Uncover Hidden Gems
 
-![Project Banner](https://via.placeholder.com/800x200.png?text=Aurora+Bank+Insights)  
+![Row count check](Aurora_page-0001.jpg)
 *Digging into customer and transaction data to help Aurora Bank grow and stay secure—with Power BI!*
 
 ## 1. Project Title  
@@ -48,7 +48,11 @@ After my analysis, here’s what I uncovered—some real eye-openers!
 - **Warning Signs**: Transaction errors are a big issue—1,760 failed due to insufficient balance, and Mastercard has the highest failure rate at 49%. Clients with severe DTI (debt-to-income) risk hold $33M in debt, and those with high loan risk scores carry $22.5M.  
 
 These findings felt like hitting the jackpot, giving Aurora Bank a clear path forward.
-
+![Row count check](Aurora_page-0002.jpg)
+---
+![Row count check](Aurora_page-0003.jpg)
+--- 
+![Row count check](Aurora_page-0004.jpg)
 ## 7. Conclusion / Recommendations  
 After all that digging with Power BI, here’s what I’d suggest Aurora Bank do next:  
 - **Get Personal**: Focus on the 31-50 age group—they’re your biggest crowd. Since they’re spending a lot on retail (especially $0.12M in Houston), how about some tailored retail promos or partnerships in Texas?  
